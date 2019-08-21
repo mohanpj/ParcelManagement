@@ -4,7 +4,7 @@ Package Management Application
 Application is built using .Net Core 2.2. Application uses message queueing concept using RabbitMQ. Application has been developed using Mac and Visual Studio Code.
 
 
-**Pre-requisites: **
+**Pre-requisites:**
 1. Ensure .net core sdk or runtime 2.2 is installed in the machine
 2. Ensure RabbitMQ is installed and running on default port 
 3. Incase of using docker for RabbitMQ run this command to spin-off a new RabbitMQ instance
